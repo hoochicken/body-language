@@ -1,0 +1,191 @@
+abbreviation_de,title_de,description_de,abbreviation_en,Title_en,description_en,body_region_de,body_detail_de,Body_region_en,body_detail_en,deception_rating
+Acc,Arme verschränkt,Arme verschränkt, oft aus Temperaturgründen oder Komfort,Acc,arm cross,Arms crossed, often due to temperature or comfort,Oberkörper,Arm,upperbody,arm,4
+Sh,Schulterzucken,Schultern werden hochgezogen, zeigt Unsicherheit oder Gleichgültigkeit,Sh,shoulder shrug,Shoulders raised, showing uncertainty or indifference,Oberkörper,Arm,upperbody,arm,1
+Ec,Ellenbogen geschlossen,Ellenbogen werden eng am Körper gehalten, schützt die eigene Mitte,Ec,ellbow closure,Elbows held close to the body, protecting personal space,Oberkörper,Arm,upperbody,arm,3.5
+Eo,Ellenbogen nach außen,Ellenbogen werden nach außen gestreckt, signalisiert Abwehr,Eo,ellbows out ,Elbows extended outward, signaling defensiveness,Oberkörper,Arm,upperbody,arm,1
+Bh,Hinter dem Kopf,Hände hinter dem Kopf verschränkt, wirkt entspannt oder selbstbewusst,Bh,behind head,Hands clasped behind head, appearing relaxed or confident,Oberkörper,Arm,upperbody,arm,1.5
+Ah,Hände in die Hüften,Arme auf Hüfte, zeigt Dominanz oder Selbstsicherheit,Ah,arms on hips,Arms on hips, showing dominance or confidence,Oberkörper,Arm,Hüfte,upperbody,arm,hip,1.5
+Shg,Selbstumarmung,Arme werden um den eigenen Körper gelegt, signalisiert Schutz,Shg,self hug ,Arms wrapped around oneself, signaling self-protection,Oberkörper,Arm,upperbody,arm,1.5
+Bb,Hände hinter dem Rücken,Arme hinter dem Rücken verschränkt, neutral oder abwartend,Bb,arms behind back,Arms held behind back, neutral or waiting posture,Oberkörper,Arm,upperbody,arm,1.5
+Wp,Einarmig umschlungen,Ein Arm um den Körper gelegt, signalisiert Unsicherheit oder Schutz,Wp,single arm wrap,One arm wrapped around body, signaling insecurity or defense,Oberkörper,Arm,upperbody,arm,2.5
+Ia,Arme in die Luft,Arme werden erhoben, kann Überraschung oder Freude zeigen,Ia,arms in air,Arms raised, indicating surprise or excitement,Oberkörper,Arm,upperbody,arm,2
+Ba,Barriere-Geste,Arme oder Beine werden abwehrend positioniert,Ba,barrier gesture,Arms or legs positioned defensively,Oberkörper/Unterkörper,Arm/Bein,upperbody,lowerbody,arm,leg,3
+Ca,Stuhlarm,Arm auf Stuhllehne gelegt,Ca,chair arms,Arm on chair armrest,Oberkörper,Arm,upperbody,arm,2
+Pr,Schützende Gesten,Hände oder Arme schützen Körpermitte,Pr,protecting gestures,Hands or arms protect the torso,Oberkörper,Arme,upperbody,arms,2.5
+Ps,Haltung,Haltung des gesamten Körpers beobachten,Ps,posture,Observe whole body posture,Körper,Körper,body,body,1
+Bn,Augenbrauen verengen,Augenbrauen werden nach unten gezogen,Bn,eyebrow narrowing,Eyebrows drawn downward,Kopf,Augenbraue,head,brow,2.5
+Vn,Belüftung,Brustbewegung beim Atmen sichtbar,Vn,ventilation,Visible chest movement when breathing,Oberkörper,Brust,upperbody,chest,3
+Bre,Atmungsrate,Beobachtung der Atemfrequenz,Bre,breathing rate,Observation of breathing rate,Oberkörper,Brust,upperbody,chest,0
+Fc,Rumpfposition,Torso wird zum Gegenüber oder weg gedreht,Fc,torso facing,Torso turned toward or away from interlocutor,Oberkörper,Brust,upperbody,chest,0
+Pt,Körperneigung,Leichte Neigung des Oberkörpers,Pt,posture tilt,Body slightly tilted,Oberkörper,Brust,upperbody,chest,0
+Ct,Kinn vorstrecken,Kinn wird nach vorne gestreckt,Ct,chin thrust,Chin pushed forward,Kopf,Kinn,head,chin,4
+Cs,Kinnstreichen,Kinn wird berührt oder gestreichelt,Cs,chin stroke,Chin touched or stroked,Kopf,Kinn,head,chin,1
+Bc,Nachlässigkeit bei Eigentum,Lockerheit beim Umgang mit Kleidung oder Eigentum,Bc,belonging carelessmess,Carelessness with clothing or belongings,Verhalten,Kleidung,behaviour,clothing,1
+Jb,Jacke zuknöpfen,Jacke wird zugeknöpft,Jb,jacket buttoning,Jacket being buttoned,Verhalten,Kleidung,behaviour,clothing,1.5
+Cc,Kleidung bedecken,Kleidung wird bewusst bedeckt,Cc,clothing covering,Clothing being deliberately covered,Verhalten,Kleidung,behaviour,clothing,1.5
+Ef,Augenbrauenblitz,Kurzer Augenbrauenbewegung nach oben,Ef,eyebrow flash,Brief eyebrow raise,Kopf,Auge,head,eye,1
+Cg,Bestätigungsschein,Blick zur Bestätigung, Cg,confirmation glance,Glance for confirmation,Kopf,Auge,head,eye,4
+Ot,Augenspannung,Ocular orbital tension sichtbar,Ot,ocular orbital tension,Visible tension around eyes,Kopf,Auge,head,eye,2.5
+Br,Augenblinzeln,Blitzartige Augenbewegung,Br,eye blink rate,Rate of eye blinking,Kopf,Auge,head,eye,1
+Pd,Pupillenerweiterung,Pupillen werden größer,Pd,pupil dilation,Pupils dilate,Kopf,Auge,head,eye,1.5
+Sq,Augenzusammenkneifen,Augen werden leicht zusammengekniffen,Sq,eye squint,Eyes slightly squinted,Kopf,Auge,head,eye,1
+Pc,Pupillenverengung,Pupillen werden kleiner,Pc,pupil constrction,Pupils constrict,Kopf,Auge,head,eye,1
+Er,Augenreiben,Augen werden gerieben,Er,eyelid rubbing,Eyes rubbed,Kopf,Auge,head,eye,2.5
+Ha,Glück,Happiness sichtbar im Gesicht,Ha,happiness,Happiness visible on face,Kopf,Gesicht,head,face,1
+Fl,Rötung,Flush im Gesicht sichtbar,Fl,flushing,Flushing visible on face,Kopf,Gesicht,head,face,1.5
+Sp,Überraschung,Überraschung im Gesicht sichtbar,Sp,surprise,Surprise visible on face,Kopf,Gesicht,head,face,1
+Sa,Traurigkeit,Traurigkeit im Gesicht sichtbar,Sa,sadness,Sadness visible on face,Kopf,Gesicht,head,face,1
+Dg,Ekel,Ekel im Gesicht sichtbar,Dg,disgust,Disgust visible on face,Kopf,Gesicht,head,face,1
+Fr,Angst,Angst im Gesicht sichtbar,Fr,fear,Fear visible on face,Kopf,Gesicht,head,face,1.5
+Co,Verachtung,Verachtung im Gesicht sichtbar,Co,contempt,Contempt visible on face,Kopf,Gesicht,head,face,1
+Ag,Wut,Wut im Gesicht sichtbar,Ag,anger,Anger visible on face,Kopf,Gesicht,head,face,1
+Wf,Hand auf Stirn,Hand auf Stirn gelegt,Wf,wrist to forehead,Hand on forehead,Kopf,Gesicht,head,face,2.5
+Agg,Zehen nach oben,Zehen zeigen nach oben,Agg,toes upward pointing,Toes pointing upward,Kopf,Fuß,head,foot,1
+Ip,Zehen nach innen,Zehen zeigen nach innen,Ip,inward toe pointing,Toes pointing inward,Unterkörper,Fuß,lowerbody,foot,2
+Sr,Schuh ausziehen,Schuhe werden ausgezogen,Sr,shoe removal,Shoes removed,Unterkörper,Fuß,lowerbody,foot,1
+Gpr,Genitalschutz,Hände schützen den Genitalbereich,Gpr,genital protection,Hands protect the groin,Unterkörper,Leiste,lowerbody,groin,4
+Ge,Genital freilegen,Genitalbereich freigelegt,Ge,groin exposure,Groin exposed,Unterkörper,Leiste,lowerbody,groin,1
+Gs,Genitalschild,Hände schützen Genitalbereich,Gs,groin shield,Hands shield the groin,Unterkörper,Leiste,lowerbody,groin,2
+Gd,Führung,Geste zur Führung,Gd,guiding,Guiding gesture,Oberkörper,Hand,upperbody,hand,1
+Bg,Baton-Gesten,Gestik mit Schlagstock,Bg,baton gestures,Gestures with baton,Oberkörper,Hand,upperbody,hand,1.5
+De,Finger strecken,Digital extension sichtbar,De,digital extension,Digital extension visible,Oberkörper,Hand,upperbody,hand,1
+Pe ,Handfläche zeigen,Handfläche sichtbar,Pe ,palm exposure,Palm exposure visible,Oberkörper,Hand,upperbody,hand,1
+Lf,Verschränkte Finger,Finger verschränkt,Lf,locked fingers,Fingers interlaced,Oberkörper,Hand,upperbody,hand,1
+St,Fingersteepling,Fingerkuppen berühren sich,St,steepling,Fingertips touching in triangle,Oberkörper,Hand,upperbody,hand,1.5
+Ft,Gesicht berühren,Hand berührt Gesicht,Ft,facial touching,Hand touches face,Oberkörper,Hand,upperbody,hand,4
+Po,Hände in Tasche,Hände in Hosentaschen,Po,hands in pockest,Hands in pockets,Oberkörper,Hand,upperbody,hand,2
+Tch,Brust berühren,Hand berührt Brust,Tch,chest touching,Hand touches chest,Oberkörper,Hand,upperbody,hand,2
+Tp,Klopfen,Leichte Klopfbewegung,Tp,tapping,Light tapping motion,Oberkörper,Hand,upperbody,hand,2.5
+Fi,Zappeln,Unruhige Handbewegung,Fi,fidgeting,Fidgeting with hands,Oberkörper,Hand,upperbody,hand,2
+Grs,Zweihändige Griffbewegung,Beide Hände greifen etwas,Grs,Two-handed grasping,Two-handed grasping,Oberkörper,Hand,upperbody,hand,2
+Bon,Hände am Nacken,Hände am Nacken verschränkt,Bon,hands on back of the neck,Hands on back of neck,Oberkörper,Hand,upperbody,hand,2.5
+Lp,Fussel entfernen,Hand entfernt Fussel,Lp,lint picking,Hand removes lint,Oberkörper,Hand,upperbody,hand,2.5
+Pdn,Handflächen nach unten,Palmen nach unten,Pdn,palms down,Palms facing down,Oberkörper,Hand,upperbody,hand,3
+Df,Digitalflexion,Finger gebeugt,Df,digital flexion,Fingers flexed,Oberkörper,Hand,upperbody,hand,2
+Gm,Gepflegte Gesten,Hände gepflegt, Gm,grooming gestures,Hand grooming,Oberkörper,Hand,upperbody,hand,2
+Thc,Hände verschränkt,Clasping hands together,Thc,clasping th things,Hands clasped together,Oberkörper,Hand,upperbody,hand,2
+Wt,Handgelenk berühren,Hand berührt Handgelenk,Wt,wrist touching,Hand touches wrist,Oberkörper,Hand,upperbody,hand,2
+Fns,Finger zur Nase,Finger zur Nase gebracht,Fns,finger to nose,Finger to nose,Oberkörper,Hand,upperbody,hand,4
+Ftb,Fäuste auf Tisch,Fäuste auf Tisch gelegt,Ftb,fists on table,Fists on table,Oberkörper,Hand,upperbody,hand,2.5
+Jp,Schmuckspiel,Spielt mit Schmuck,Jp,jewelry play,Playing with jewelry,Oberkörper,Hand,upperbody,hand,3.5
+Ht,Kopfneigung,Kopf leicht zur Seite geneigt,Ht,head tilt,Head slightly tilted,Kopf,Kopf,head,head,2
+Hd,Kopf gesenkt,Kopf nach unten gesenkt,Hd,head downcast,Head cast downward,Kopf,Kopf,head,head,2
+Hb,Kopf zurück,Kopf nach hinten geneigt,Hb,head back,Head tilted back,Kopf,Kopf,head,head,1.5
+Ye,Vertikales Kopfschütteln,Kopf auf und ab bewegt,Ye,vertical head shake,Head shakes vertically,Kopf,Kopf,head,head,1
+Hs,Kopfstütze,Kopf auf Hand oder Arm gestützt,Hs,head support,Head supported by hand or arm,Kopf,Kopf,head,head,1
+No,Horizontales Kopfschütteln,Kopf von Seite zu Seite bewegt,No,horizontal head shake,Head shakes horizontally,Kopf,Kopf,head,head,1
+Kh,Knie umarmen,Knie werden umarmt,Kh,knee hugging,Knees hugged,Oberkörper,Knie,upperbody,knee,1.5
+Kc,Knie zusammen,Beine werden am Knie zusammengehalten,Kc,knee clasp,Legs held together at knee,Unterkörper,Knie,lowerbody,knee,2.5
+4,Figur-Vier-Beinkreuz,Beine werden in Figur-Vier-Form gekreuzt,4,Figure-four leg cross,Legs crossed in figure-four,Unterkörper,Bein,lowerbody,leg,1
+Dc,Doppelbeinkreuz,Beine überkreuzt,Dc,double-leg cross,Legs crossed together,Unterkörper,Bein,lowerbody,leg,2
+Lg,Bein überkreuzt,Bein über das andere geschlagen,Lg,leg crossing,Leg crossed over other,Unterkörper,Bein,head,leg,1
+Bi,Beine binden,Beine werden gebunden,Bi,binding legs,Legs tied together,Unterkörper,Bein,lowerbody,leg,2
+La,Knöchel verschränkt,Knöchel werden verschränkt,La,locked ankle,Ankles crossed,Unterkörper,Bein,lowerbody,leg,2
+Fw,Fuß zurückziehen,Fuß wird zurückgezogen,Fw,foot withdrawel,Foot withdrawn,Unterkörper,Bein,lowerbody,leg,3.5
+Cl,Füße um Stuhl,Füße um Stuhlbeine gelegt,Cl,feet around chair legs,Feet around chair legs,Unterkörper,Bein,lowerbody,leg,4
+Lc,Lippen zusammenpressen,Lippen zusammengepresst,Lc,lip compression,Lips pressed together,Kopf,Mund,head,mouth,2
+Ts,Zähne saugen,Zähne leicht saugen,Ts,teeth sucking,Sucking teeth,Kopf,Mund,head,mouth,3
+Om,Gegenstand im Mund,Gegenstand wird in den Mund genommen,Om,object in mouth,Object placed in mouth,Kopf,Mund,head,mouth,2.5
+Jc,Kiefer zusammenbeißen,Kiefer angespannt,Jc,jaw clenching,Jaw clenched,Kopf,Mund,head,mouth,2.5
+Yn,Gähnen,Gähnen sichtbar,Yn,yawn,Yawning visible,Kopf,Mund,head,mouth,1
+Lr,Lippen zurückziehen,Lippen zurückgezogen,Lr,lip retraction,Lips retracted,Kopf,Mund,head,mouth,2
+Hu,Husch,Geste zum Hushing,Hu,hushing,Hush voice by hand or object,Kopf,Mund/Hand,head,mouth,hand,4
+Aa,Adamsapfel heben,Adamsapfel nach oben geschoben,Aa,adams’s apple raise,Adam’s apple pushed up,Kopf,Hals,head,neck,4
+Sw,Schlucken,Schluckbewegung sichtbar,Sw,swallowing,Swallowing visible,Kopf,Hals,head,neck,2.5
+Ttc,Hals umschließen,Hände am Hals,Ttc,throat clasping,Hands clasp throat,Kopf,Hals,head,neck,4
+Wd,Nasenflügel erweitern,Nasenflügel weiten,Wd,nostril wing dilation,Nostrils flare,Kopf,Nase,head,nose,3
+Opi,Interaktion mit Eigentum anderer,Mit Eigentum anderer interagieren,Opi,interaction with other’s property,Interaction with others’ property,Verhalten,Objekt,behaviour,object,1
+Oi,Gegenstandsinteraktion,Interaktion mit Objekt,Oi,object interaction,Interaction with object,Verhalten,Objekt,behaviour,object,1
+Wc,Uhr checken,Uhr wird überprüft,Wc,watch checking,Checking watch,Verhalten,Objekt,behaviour,object,1
+Pb,Objektbarriere,Objekt als Barriere nutzen,Pb,object barrier,Object used as barrier,Verhalten,Objekt,behaviour,object,2
+Ps,Besitzsicherung,Persönliches Eigentum sichern,Ps,personal belonging security check,Checking personal belongings,Verhalten,Objekt,behaviour,object,2
+Oc,Objekt verbergen,Objekt wird versteckt,Oc,object concealment,Object concealed,Verhalten,Objekt,behaviour,object,3
+Tlt,Becken kippen,Becken leicht kippen,Tlt,pelvic tilt,Pelvis tilts,Unterkörper,Becken,lowerbody,pelvis,2
+Ff,Becken ausrichten,Becken wird positioniert,Ff,pelvic facing,Pelvis facing,Unterkörper,Becken,lowerbody,pelvis,2
+Tu,Turtling,Schultern hochgezogen,Tu,turtling,Shoulders pulled up,Oberkörper,Schulter,upperbody,shoulder,2.5
+Ss,Einzelschulterzucken,Eine Schulter zuckt,Ss,single shoulder shrug,One shoulder raised,Oberkörper,Schulter,upperbody,shoulder,4
+Cr,Kontinuierlich gehobene Schultern,Schultern dauerhaft gehoben,Cr,constantly raised shoulders,Shoulders constantly raised,Oberkörper,Schulter,upperbody,shoulder,2
+Hes,Stimmhemmung,Unsichere Stimme,Hes,voice hesitancy,Hesitant voice,Sprache,Verbal,speach,verbal,4
+Psd,Psychologische Distanz,Distanz durch Sprache,Psd,psychological distancing,Distance expressed verbally,Sprache,Verbal,speach,verbal,4
+NA,Keine Antwort,Antwort wird verweigert,NA,non answer statemend,No answer given,Sprache,Verbal,speach,verbal,4
+Prn,Pronomen weglassen,Pronomen nicht benutzt,Prn,pronoun absence,Pronoun absence,Sprache,Verbal,speach,verbal,4
+Res,Resümee Aussage,Kurz zusammengefasste Aussage,Res,résumé statement,Summary statement,Sprache,Verbal,speach,verbal,4
+Nc,Nicht-Kontrahierende Aussage,Keine Vertragsannahme,Nc,noncontracting statement,Noncontracting statement,Sprache,Verbal,speach,verbal,4
+Qr,Frageumkehr,Frage wird umgedreht,Qr,question reversal,Question reversed,Sprache,Verbal,speach,verbal,4
+An,Mehrdeutige Aussage,Ambivalente Aussage,An,ambiguity statement,Ambiguous statement,Sprache,Verbal,speach,verbal,4
+Pol,Höflichkeit,Höfliche Ausdrucksweise,Pol,politeness,Politeness,Sprache,Verbal,speach,verbal,4
+Oa,Übermäßiges Entschuldigen,Zu oft entschuldigen,Oa,overapologizing,Overapologizing,Sprache,Verbal,speach,verbal,4
+Mc,Kurzgeständnisse,Kurz gestehen,Mc,miniconfessions,Mini confessions,Sprache,Verbal,speach,verbal,4
+Exc,Ausschlüsse,Ausschluss bestimmter Punkte,Exc,exclusions,Exclusions,Sprache,Verbal,speach,verbal,4
+Chr,Direkte Chronologie,Zeitliche Reihenfolge der Ereignisse,Chr,direct chronology,Direct chronology,Sprache,Verbal,speach,verbal,4
+Rip,Stimmhoch,Anstieg der Stimmlage,Rip,rising vocal pitch,Rising vocal pitch,Sprache,Stimme,speach,voice,4
+Spd,Stimmtempo erhöhen,Erhöhtes Sprechtempo,Spd,increas in vocal speed,Increase in vocal speed,Sprache,Stimme,speach,voice,4
+Fz,Einfrieren,Körperliche Bewegung stoppt,Fz,freeze,Body freezes,Körper,,body,,3.5
+Bc,Barriere-Kreuz,Arme oder Beine verschränkt,Bc,barrier cross,Arms or legs crossed,Verhalten,,behaviour,,3
+TempShift,Temporaler Shift,Zeitlicher Wechsel in Sätzen,,temporal shift,Shift of tenses while speaking,Sprache,Verbal,speach,verbal,0
+abbreviation_de,title_de,description_de,abbreviation_en,Title_en,description_en,body_region_de,body_detail_de,Body_region_en,body_detail_en,deception_rating
+Acc,Arme verschränkt,Arme verschränkt, oft aus Temperaturgründen oder Komfort,Acc,arm cross,Arms crossed, often due to temperature or comfort,Oberkörper,Arm,upperbody,arm,4
+Sh,Schulterzucken,Schultern werden hochgezogen, zeigt Unsicherheit oder Gleichgültigkeit,Sh,shoulder shrug,Shoulders raised, showing uncertainty or indifference,Oberkörper,Arm,upperbody,arm,1
+Ec,Ellenbogen geschlossen,Ellenbogen werden eng am Körper gehalten, schützt die eigene Mitte,Ec,ellbow closure,Elbows held close to the body, protecting personal space,Oberkörper,Arm,upperbody,arm,3.5
+Eo,Ellenbogen nach außen,Ellenbogen werden nach außen gestreckt, signalisiert Abwehr,Eo,ellbows out ,Elbows extended outward, signaling defensiveness,Oberkörper,Arm,upperbody,arm,1
+Bh,Hinter dem Kopf,Hände hinter dem Kopf verschränkt, wirkt entspannt oder selbstbewusst,Bh,behind head,Hands clasped behind head, appearing relaxed or confident,Oberkörper,Arm,upperbody,arm,1.5
+Ah,Hände in die Hüften,Arme auf Hüfte, zeigt Dominanz oder Selbstsicherheit,Ah,arms on hips,Arms on hips, showing dominance or confidence,Oberkörper,Arm,Hüfte,upperbody,arm,hip,1.5
+Shg,Selbstumarmung,Arme werden um den eigenen Körper gelegt, signalisiert Schutz,Shg,self hug ,Arms wrapped around oneself, signaling self-protection,Oberkörper,Arm,upperbody,arm,1.5
+Bb,Hände hinter dem Rücken,Arme hinter dem Rücken verschränkt, neutral oder abwartend,Bb,arms behind back,Arms held behind back, neutral or waiting posture,Oberkörper,Arm,upperbody,arm,1.5
+Wp,Einarmig umschlungen,Ein Arm um den Körper gelegt, signalisiert Unsicherheit oder Schutz,Wp,single arm wrap,One arm wrapped around body, signaling insecurity or defense,Oberkörper,Arm,upperbody,arm,2.5
+Ia,Arme in die Luft,Arme werden erhoben, kann Überraschung oder Freude zeigen,Ia,arms in air,Arms raised, indicating surprise or excitement,Oberkörper,Arm,upperbody,arm,2
+Ba,Barriere-Geste,Arme oder Beine werden abwehrend positioniert,Ba,barrier gesture,Arms or legs positioned defensively,Oberkörper/Unterkörper,Arm/Bein,upperbody,lowerbody,arm,leg,3
+Ca,Stuhlarm,Arm auf Stuhllehne gelegt,Ca,chair arms,Arm on chair armrest,Oberkörper,Arm,upperbody,arm,2
+Pr,Schützende Gesten,Hände oder Arme schützen Körpermitte,Pr,protecting gestures,Hands or arms protect the torso,Oberkörper,Arme,upperbody,arms,2.5
+Ps,Haltung,Haltung des gesamten Körpers beobachten,Ps,posture,Observe whole body posture,Körper,Körper,body,body,1
+Bn,Augenbrauen verengen,Augenbrauen werden nach unten gezogen,Bn,eyebrow narrowing,Eyebrows drawn downward,Kopf,Augenbraue,head,brow,2.5
+Vn,Belüftung,Brustbewegung beim Atmen sichtbar,Vn,ventilation,Visible chest movement when breathing,Oberkörper,Brust,upperbody,chest,3
+Bre,Atmungsrate,Beobachtung der Atemfrequenz,Bre,breathing rate,Observation of breathing rate,Oberkörper,Brust,upperbody,chest,0
+Fc,Rumpfposition,Torso wird zum Gegenüber oder weg gedreht,Fc,torso facing,Torso turned toward or away from interlocutor,Oberkörper,Brust,upperbody,chest,0
+Pt,Körperneigung,Leichte Neigung des Oberkörpers,Pt,posture tilt,Body slightly tilted,Oberkörper,Brust,upperbody,chest,0
+Ct,Kinn vorstrecken,Kinn wird nach vorne gestreckt,Ct,chin thrust,Chin pushed forward,Kopf,Kinn,head,chin,4
+Cs,Kinnstreichen,Kinn wird berührt oder gestreichelt,Cs,chin stroke,Chin touched or stroked,Kopf,Kinn,head,chin,1
+Bc,Nachlässigkeit bei Eigentum,Lockerheit beim Umgang mit Kleidung oder Eigentum,Bc,belonging carelessmess,Carelessness with clothing or belongings,Verhalten,Kleidung,behaviour,clothing,1
+Jb,Jacke zuknöpfen,Jacke wird zugeknöpft,Jb,jacket buttoning,Jacket being buttoned,Verhalten,Kleidung,behaviour,clothing,1.5
+Cc,Kleidung bedecken,Kleidung wird bewusst bedeckt,Cc,clothing covering,Clothing being deliberately covered,Verhalten,Kleidung,behaviour,clothing,1.5
+Ef,Augenbrauenblitz,Kurzer Augenbrauenbewegung nach oben,Ef,eyebrow flash,Brief eyebrow raise,Kopf,Auge,head,eye,1
+Cg,Bestätigungsschein,Blick zur Bestätigung,Cg,confirmation glance,Glance for confirmation,Kopf,Auge,head,eye,4
+Ot,Augenspannung,Ocular orbital tension sichtbar,Ot,ocular orbital tension,Visible tension around eyes,Kopf,Auge,head,eye,2.5
+Br,Augenblinzeln,Blitzartige Augenbewegung,Br,eye blink rate,Rate of eye blinking,Kopf,Auge,head,eye,1
+Pd,Pupillenerweiterung,Pupillen werden größer,Pd,pupil dilation,Pupils dilate,Kopf,Auge,head,eye,1.5
+Sq,Augenzusammenkneifen,Augen werden leicht zusammengekniffen,Sq,eye squint,Eyes slightly squinted,Kopf,Auge,head,eye,1
+Pc,Pupillenverengung,Pupillen werden kleiner,Pc,pupil constrction,Pupils constrict,Kopf,Auge,head,eye,1
+Er,Augenreiben,Augen werden gerieben,Er,eyelid rubbing,Eyes rubbed,Kopf,Auge,head,eye,2.5
+Ha,Glück,Happiness sichtbar im Gesicht,Ha,happiness,Happiness visible on face,Kopf,Gesicht,head,face,1
+Fl,Rötung,Flush im Gesicht sichtbar,Fl,flushing,Flushing visible,Kopf,Gesicht,head,face,1.5
+Sp,Überraschung,Überraschung im Gesicht sichtbar,Sp,surprise,Surprise visible on face,Kopf,Gesicht,head,face,1
+Sa,Traurigkeit,Traurigkeit im Gesicht sichtbar,Sa,sadness,Sadness visible on face,Kopf,Gesicht,head,face,1
+Dg,Ekel,Ekel im Gesicht sichtbar,Dg,disgust,Disgust visible on face,Kopf,Gesicht,head,face,1
+Fr,Angst,Angst im Gesicht sichtbar,Fr,fear,Fear visible on face,Kopf,Gesicht,head,face,1.5
+Co,Verachtung,Verachtung im Gesicht sichtbar,Co,contempt,Contempt visible on face,Kopf,Gesicht,head,face,1
+Ag,Wut,Wut im Gesicht sichtbar,Ag,anger,Anger visible on face,Kopf,Gesicht,head,face,1
+Wf,Hand auf Stirn,Hand auf Stirn gelegt,Wf,wrist to forehead,Hand on forehead,Kopf,Gesicht,head,face,2.5
+Agg,Zehen nach oben,Zehen zeigen nach oben,Agg,toes upward pointing,Toes pointing upward,Kopf,Fuß,head,foot,1
+Ip,Zehen nach innen,Zehen zeigen nach innen,Ip,inward toe pointing,Toes pointing inward,Unterkörper,Fuß,lowerbody,foot,2
+Sr,Schuh ausziehen,Schuhe werden ausgezogen,Sr,shoe removal,Shoes removed,Unterkörper,Fuß,lowerbody,foot,1
+Gpr,Genitalschutz,Hände schützen den Genitalbereich,Gpr,genital protection,Hands protect the groin,Unterkörper,Leiste,lowerbody,groin,4
+Ge,Genital freilegen,Genitalbereich freigelegt,Ge,groin exposure,Groin exposed,Unterkörper,Leiste,lowerbody,groin,1
+Gs,Genitalschild,Hände schützen Genitalbereich,Gs,groin shield,Hands shield the groin,Unterkörper,Leiste,lowerbody,groin,2
+Gd,Führung,Geste zur Führung,Gd,guiding,Guiding gesture,Oberkörper,Hand,upperbody,hand,1
+Bg,Baton-Gesten,Gestik mit Schlagstock,Bg,baton gestures,Gestures with baton,Oberkörper,Hand,upperbody,hand,1.5
+De,Finger strecken,Digital extension sichtbar,De,digital extension,Digital extension visible,Oberkörper,Hand,upperbody,hand,1
+Pe ,Handfläche zeigen,Handfläche sichtbar,Pe ,palm exposure,Palm exposure visible,Oberkörper,Hand,upperbody,hand,1
+Lf,Verschränkte Finger,Finger verschränkt,Lf,locked fingers,Fingers interlaced,Oberkörper,Hand,upperbody,hand,1
+St,Fingersteepling,Fingerkuppen berühren sich,St,steepling,Fingertips touching in triangle,Oberkörper,Hand,upperbody,hand,1.5
+Ft,Gesicht berühren,Hand berührt Gesicht,Ft,facial touching,Hand touches face,Oberkörper,Hand,upperbody,hand,4
+Po,Hände in Tasche,Hände in Hosentaschen,Po,hands in pockest,Hands in pockets,Oberkörper,Hand,upperbody,hand,2
+Tch,Brust berühren,Hand berührt Brust,Tch,chest touching,Hand touches chest,Oberkörper,Hand,upperbody,hand,2
+Tp,Klopfen,Leichte Klopfbewegung,Tp,tapping,Light tapping motion,Oberkörper,Hand,upperbody,hand,2.5
+Fi,Zappeln,Unruhige Handbewegung,Fi,fidgeting,Fidgeting with hands,Oberkörper,Hand,upperbody,hand,2
+Grs,Zweihändige Griffbewegung,Beide Hände greifen etwas,Grs,Two-handed grasping,Two-handed grasping,Oberkörper,Hand,upperbody,hand,2
+Bon,Hände am Nacken,Hände am Nacken verschränkt,Bon,hands on back of the neck,Hands on back of neck,Oberkörper,Hand,upperbody,hand,2.5
+Lp,Fussel entfernen,Hand entfernt Fussel,Lp,lint picking,Hand removes lint,Oberkörper,Hand,upperbody,hand,2.5
+Pdn,Handflächen nach unten,Palmen nach unten,Pdn,palms down,Palms facing down,Oberkörper,Hand,upperbody,hand,3
+Df,Digitalflexion,Finger gebeugt,Df,digital flexion,Fingers flexed,Oberkörper,Hand,upperbody,hand,2
+Gm,Gepflegte Gesten,Hände gepflegt,Gm,grooming gestures,Hand grooming,Oberkörper,Hand,upperbody,hand,2
+Thc,Hände verschränkt,Clasping hands together,Thc,clasping th things,Hands clasped together,Oberkörper,Hand,upperbody
