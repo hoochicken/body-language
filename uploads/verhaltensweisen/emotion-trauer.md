@@ -13,9 +13,13 @@ Laut Hughes ist Trauer quasi die Verstärkung der Auswirkung der Schwerkranft au
 **3. Varianten**  
 
 - keinerlei Abzeichnen irgendeiner Reging => ggf. Botox-Lähmung, vgl. Michelle Pfeifer
-- "falsche", vorgespielte Trauer , sie verschwindet  
+- "falsche", vorgespielte Trauer, sie verschwindet  
 
-**4. Hintergrund**  
+**4. Hintergrund**
+
+Emotionen werden ausgelöst durch das Eunschwemmen von Botenstoffen in den Blutkreislauf. Eine Emotion baut sich also auf und schwillt dann ab. Auch der Gesichtsausdruckleitet sich ein und verschwindet langsam wieder.
+
+Anders bei vorgespielten Emotionen. Oft stellt eine Person einen passenden Gesichtsausdruck zur Schau. Dieser verschwindet dann z. B. schlagartig, wenn die Person glaubt, dass die Emotion beim Gegenüber die gewünscht Wirkung gezeigt hat (s. a. Bestätigungsblick) oder wenn sie sich unbeobachtet wähnt.
 
 **5. Verstärkende Verhaltensweisen**  
 [in Arbeit]  
