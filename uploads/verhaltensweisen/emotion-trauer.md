@@ -2,7 +2,7 @@
 
 **1. Definition / Beschreibung**  
 
-Universaler Gesichtsausdruck: Augenbrauen zur Gesichtsmitt hin angezogen, deutliche Falten über der Nase. Gesichts- und Sugenmuskel sind ansonsten entspannt.
+Universaler Gesichtsausdruck: Augenbrauen zur Gesichtsmitte hin angezogen, deutliche Falten über der Nase. Gesichts- und Augenmuskel sind ansonsten entspannt.
 
 Laut Hughes ist Trauer quasi die Verstärkung der Auswirkung der Schwerkranft auf das Gesicht. 
 
