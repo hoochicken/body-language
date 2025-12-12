@@ -17,9 +17,9 @@ Laut Hughes ist Trauer quasi die Verstärkung der Auswirkung der Schwerkranft au
 
 **4. Hintergrund**
 
-Emotionen werden ausgelöst durch das Eunschwemmen von Botenstoffen in den Blutkreislauf. Eine Emotion baut sich also auf und schwillt dann ab. Auch der Gesichtsausdruckleitet sich ein und verschwindet langsam wieder.
+Echte Emotionen werden ausgelöst durch das Einschwemmen von Botenstoffen in den Blutkreislauf. Eine Emotion baut sich also auf und schwillt dann ab. Sie ist kein 0-1-Zustand. Auch der Gesichtsausdruck leitet sich ein und verschwindet *langsam* wieder.
 
-Anders bei vorgespielten Emotionen. Oft stellt eine Person einen passenden Gesichtsausdruck zur Schau. Dieser verschwindet dann z. B. schlagartig, wenn die Person glaubt, dass die Emotion beim Gegenüber die gewünscht Wirkung gezeigt hat (s. a. Bestätigungsblick) oder wenn sie sich unbeobachtet wähnt.
+Anders bei vorgespielten Emotionen. Oft stellt eine Person einen passenden Gesichtsausdruck zur Schau. Dieser verschwindet dann schlagartig, z. B. wenn die Person glaubt, dass die Emotion beim Gegenüber die gewünschte Wirkung gezeigt hat (s. a. Bestätigungsblick) oder wenn sie sich unbeobachtet wähnt.
 
 **5. Verstärkende Verhaltensweisen**  
 [in Arbeit]  
